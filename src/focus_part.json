@@ -1,0 +1,58 @@
+{
+    "KParts": {
+        "PluginNamespace": "focus_generators"
+    },
+    "KPlugin": {
+        "Icon": "focus",
+        "MimeTypes": [
+            "application/vnd.kde.focus-archive"
+        ],
+        "Name": "Focus",
+        "Name[ar]": "Focus",
+        "Name[ast]": "Focus",
+        "Name[az]": "Focus",
+        "Name[be]": "Focus",
+        "Name[bg]": "Focus",
+        "Name[ca@valencia]": "Focus",
+        "Name[ca]": "Focus",
+        "Name[cs]": "Focus",
+        "Name[de]": "Focus",
+        "Name[en_GB]": "Focus",
+        "Name[eo]": "Focus",
+        "Name[es]": "Focus",
+        "Name[eu]": "Focus",
+        "Name[fi]": "Focus",
+        "Name[fr]": "Focus",
+        "Name[ga]": "Focus",
+        "Name[gl]": "Focus",
+        "Name[he]": "Focus",
+        "Name[hu]": "Focus",
+        "Name[ia]": "Focus",
+        "Name[is]": "Focus",
+        "Name[it]": "Focus",
+        "Name[ka]": "Focus",
+        "Name[ko]": "Focus",
+        "Name[lt]": "Focus",
+        "Name[lv]": "Focus",
+        "Name[nl]": "Focus",
+        "Name[nn]": "Focus",
+        "Name[pa]": "Focus",
+        "Name[pl]": "Focus",
+        "Name[pt_BR]": "Focus",
+        "Name[ru]": "Focus",
+        "Name[sa]": "Focus",
+        "Name[sk]": "Focus",
+        "Name[sl]": "Focus",
+        "Name[sv]": "Focus",
+        "Name[ta]": "Focus",
+        "Name[tr]": "Focus",
+        "Name[ug]": "Focus",
+        "Name[uk]": "Focus",
+        "Name[zh_CN]": "Focus",
+        "Name[zh_TW]": "Focus",
+        "ServiceTypes": [
+            "KParts/ReadOnlyPart",
+            "KParts/ReadWritePart"
+        ]
+    }
+}

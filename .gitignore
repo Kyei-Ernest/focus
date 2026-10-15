@@ -1,0 +1,23 @@
+# Build trees and install prefixes (recreated by the build commands)
+/build/
+/app/
+
+# Packaged artifacts (rebuilt; too large for git)
+*.AppImage
+*.AppImage.zsync
+packaging/AppDir/
+packaging/*-extracted/
+packaging/tools/
+packaging/*.AppImage
+
+# CMake / compiler leftovers (outside build/)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Editor / OS noise
+.vscode/
+.idea/
+*~
+.DS_Store

@@ -1,0 +1,16 @@
+maintainer: aacid
+description: Focus, the unified document viewer
+platforms:
+ - name: Linux
+ - name: Windows
+ - name: macOS
+release: true
+
+public_lib: true
+public_source_dirs:
+ - core
+ - interfaces
+ - Mainpage.dox
+logo: icons/128-apps-focus.png
+irc: focus
+mailinglist: focus-devel
