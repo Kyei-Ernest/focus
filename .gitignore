@@ -21,3 +21,7 @@ Makefile.cmake
 .idea/
 *~
 .DS_Store
+
+# Build logs
+packaging/*.log
+packaging/missing.txt
